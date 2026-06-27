@@ -1,8 +1,11 @@
 /******************************************************************************
+ *
 Calculaţi minimul celor 3 numere date.
 Programul citeşte de la tastatură 3 numere întregi separate prin spaţii.
 Programul va afişa pe ecran cel mai mic dintre numerele citite.
+
 *******************************************************************************/
+
 #include <iostream>
 using namespace std;
 
