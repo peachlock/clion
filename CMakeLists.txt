@@ -14,7 +14,11 @@ add_executable(pb_559 Pb_Info/559.cpp)
 add_executable(ex_test_info Pb_Info/ex_test_info.cpp
         Pb_Info/recursiv_01.cpp
         Pb_Info/recursiv_02.cpp
-        Pb_Info/recursiv_03.cpp)
+        Pb_Info/recursiv_03.cpp
+        Pb_Info/pb_898.cpp
+)
 add_executable(recursiv_01 Pb_Info/recursiv_01.cpp)
 add_executable(recursiv_02 Pb_Info/recursiv_02.cpp)
 add_executable(recursiv_03 Pb_Info/recursiv_03.cpp)
+add_executable(pb_897 Pb_Info/pb_897.cpp)
+add_executable(pb_898 Pb_Info/pb_898.cpp)
