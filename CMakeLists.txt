@@ -22,6 +22,7 @@ add_executable(ex_test_info Pb_Info/ex_test_info.cpp
         Pb_Info/pb_26.cpp
         Pb_Info/pb_2859.cpp
         Pb_Info/pb_1633.cpp
+        Pb_Info/pb_905.cpp
 )
 add_executable(recursiv_01 Pb_Info/recursiv_01.cpp)
 add_executable(recursiv_02 Pb_Info/recursiv_02.cpp)
@@ -36,3 +37,4 @@ add_executable(pb_2859 Pb_Info/pb_2859.cpp)
 add_executable(pb_21 Pb_Info/pb_21.cpp)
 add_executable(pb_906 Pb_Info/pb_906.cpp)
 add_executable(pb_1633 Pb_Info/pb_1633.cpp)
+add_executable(pb_905 Pb_Info/pb_905.cpp)
