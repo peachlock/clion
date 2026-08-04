@@ -54,9 +54,11 @@ add_executable(ex_sir_char Pb_Info/ex_sir_char.cpp
         Pb_Info/pb_rec1.cpp
         Pb_Info/pb_rec2.cpp
         Pb_Info/pb_rec3.cpp
-        Pb_Info/pb_rec4.cpp)
+        Pb_Info/pb_rec4.cpp
+        Pb_Info/pb_rec5.cpp)
 add_executable(pb_972 Pb_Info/pb_972.cpp)
 add_executable(pb_rec1 Pb_Info/pb_rec1.cpp)
 add_executable(pb_rec2 Pb_Info/pb_rec2.cpp)
 add_executable(pb_rec3 Pb_Info/pb_rec3.cpp)
 add_executable(pb_rec4 Pb_Info/pb_rec4.cpp)
+add_executable(pb_rec5 Pb_Info/pb_rec5.cpp)
