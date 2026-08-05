@@ -15,5 +15,10 @@ int cmmdc(int a, int b) {
 int main () {
     int a, b;
     cin >> a >> b;
-    cout << cmmdc(a, b);
+
+    cout << cmmdc(a, b) << endl;
+
+    if (cmmdc(a,b) == 1)
+        cout << "Cele doua numere sunt prime intre ele" ;
+    else cout << "Cele doua numere nu sunt prime intre ele";
 }
