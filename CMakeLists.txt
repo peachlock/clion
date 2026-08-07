@@ -59,7 +59,10 @@ add_executable(ex_sir_char Pb_Info/ex_sir_char.cpp
         Pb_Info/pb_rec6.cpp
         Pb_Info/pb_rec7.cpp
         Pb_Info/pb_820.cpp
-        Pb_Info/pb_4911.cpp)
+        Pb_Info/pb_4911.cpp
+        Pb_Info/pb_821.cpp
+        Pb_Info/pb_4207.cpp
+        Pb_Info/pb_4912.cpp)
 add_executable(pb_972 Pb_Info/pb_972.cpp)
 add_executable(pb_rec1 Pb_Info/pb_rec1.cpp)
 add_executable(pb_rec2 Pb_Info/pb_rec2.cpp)
@@ -70,3 +73,6 @@ add_executable(pb_rec6 Pb_Info/pb_rec6.cpp)
 add_executable(pb_rec7 Pb_Info/pb_rec7.cpp)
 add_executable(pb_820 Pb_Info/pb_820.cpp)
 add_executable(pb_4911 Pb_Info/pb_4911.cpp)
+add_executable(pb_821 Pb_Info/pb_821.cpp)
+add_executable(pb_4207 Pb_Info/pb_4207.cpp)
+add_executable(pb_4912 Pb_Info/pb_4912.cpp)
