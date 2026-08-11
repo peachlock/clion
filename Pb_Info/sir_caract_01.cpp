@@ -59,5 +59,17 @@ int main() {
     for (i=0; i < strlen(s); i++)
         if (s[i] >= 'A' && s[i] <= 'Z')
             s[i] = s[i] + 32;
-    cout << s;
+    cout << s << endl;
+
+    // h
+    nr=0;
+    for (i=0; i< strlen(s); i++)
+        if (s[i] == s[0])
+            nr++;
+    cout << nr << endl;
+
+    //i)
+    for (i=0; i< strlen(s); i++)
+        if (s[i] == s[strlen(s) - 1])
+            cout << i << " ";
 }
