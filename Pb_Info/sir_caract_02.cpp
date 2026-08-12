@@ -20,10 +20,10 @@ int main() {
     cin.getline(s, 100);
 
     // a)
-    cout << s; // afisarea sirului citit
+    cout << s << endl; // afisarea sirului citit
 
     // b)
-    for (i = strlen(s); i >= 0; i--)
+    for (i = strlen(s) - 1; i >= 0; i--)
         cout << s[i];
     cout << endl;
 
@@ -32,7 +32,7 @@ int main() {
     for ( i = 0; i < strlen(s); i++)
         if (s[i] >= 'A' && s[i] <= 'Z')
             nr++;
-    cout << endl;
+    cout << nr << endl;
 
     // d)
     for (i = 0; i < strlen(s); i++)
@@ -40,5 +40,11 @@ int main() {
             cout << i << " ";
     cout << endl;
 
-    
+    // e)
+    nr=0;
+    for (i=0; i< strlen(s); i++)
+        if (s[i] == ' ' )
+            nr++;
+    cout << nr << endl;
+
 }
