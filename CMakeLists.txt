@@ -71,6 +71,7 @@ add_executable(ex_sir_char Pb_Info/ex_sir_char.cpp
         Pb_Info/pb_rec9.cpp
         Pb_Info/sir_caract_02.cpp
         Pb_Info/sir_caract_03.cpp
+        Pb_Info/pb_rec10.cpp
 )
 add_executable(pb_972 Pb_Info/pb_972.cpp)
 add_executable(pb_rec1 Pb_Info/pb_rec1.cpp)
@@ -93,3 +94,4 @@ add_executable(sir_caract_01 Pb_Info/sir_caract_01.cpp)
 add_executable(pb_rec9 Pb_Info/pb_rec9.cpp)
 add_executable(sir_caract_03 Pb_Info/sir_caract_03.cpp)
 add_executable(sir_caract_02 Pb_Info/sir_caract_02.cpp)
+add_executable(pb_rec10 Pb_Info/pb_rec10.cpp)
