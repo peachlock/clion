@@ -73,6 +73,14 @@ add_executable(ex_sir_char Pb_Info/ex_sir_char.cpp
         Pb_Info/sir_caract_03.cpp
         Pb_Info/pb_rec10.cpp
         Pb_Info/pb_rec11.cpp
+        Pb_Info/sir_caract_04.cpp
+        Pb_Info/sir_caract_05.cpp
+        Pb_Info/sir_caract_06.cpp
+        Pb_Info/sir_caract_07.cpp
+        Pb_Info/sir_caract_08.cpp
+        Pb_Info/sir_caract_09.cpp
+        Pb_Info/sir_caract_10.cpp
+        Pb_Info/sir_caract_11.cpp
 )
 add_executable(pb_972 Pb_Info/pb_972.cpp)
 add_executable(pb_rec1 Pb_Info/pb_rec1.cpp)
@@ -97,3 +105,11 @@ add_executable(sir_caract_03 Pb_Info/sir_caract_03.cpp)
 add_executable(sir_caract_02 Pb_Info/sir_caract_02.cpp)
 add_executable(pb_rec10 Pb_Info/pb_rec10.cpp)
 add_executable(pb_rec11 Pb_Info/pb_rec11.cpp)
+add_executable(sir_caract_04 Pb_Info/sir_caract_04.cpp)
+add_executable(sir_caract_05 Pb_Info/sir_caract_05.cpp)
+add_executable(sir_caract_06 Pb_Info/sir_caract_06.cpp)
+add_executable(sir_caract_07 Pb_Info/sir_caract_07.cpp)
+add_executable(sir_caract_08 Pb_Info/sir_caract_08.cpp)
+add_executable(sir_caract_09 Pb_Info/sir_caract_09.cpp)
+add_executable(sir_caract_10 Pb_Info/sir_caract_10.cpp)
+add_executable(sir_caract_11 Pb_Info/sir_caract_11.cpp)
