@@ -132,10 +132,12 @@ add_executable(dei_01 Pb_Info/dei_01.cpp
         Pb_Info/dei_04.cpp
         Pb_Info/pb_2828.cpp
         Pb_Info/pb_890.cpp
-        Pb_Info/pb_13.cpp)
+        Pb_Info/pb_13.cpp
+        Pb_Info/pb_1015.cpp)
 add_executable(dei_02 Pb_Info/dei_02.cpp)
 add_executable(dei_03 Pb_Info/dei_03.cpp)
 add_executable(dei_04 Pb_Info/dei_04.cpp)
 add_executable(pb_2828 Pb_Info/pb_2828.cpp)
 add_executable(pb_890 Pb_Info/pb_890.cpp)
 add_executable(pb_13 Pb_Info/pb_13.cpp)
+add_executable(pb_1015 Pb_Info/pb_1015.cpp)
