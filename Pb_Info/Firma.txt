@@ -1,0 +1,21 @@
+4
+Popescu Ion
+Fericirii 3
+Inginer
+20
+1
+Florea Alina
+Galaxiei 4
+Casiera
+15
+4
+Bungardean Mihai
+Teilor 7
+Mecanic
+18
+2
+Ionescu Andreea
+Plopilor 12
+Casiera
+16
+7

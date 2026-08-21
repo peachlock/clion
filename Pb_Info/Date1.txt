@@ -1,0 +1,22 @@
+Popescu Ion Fericirii 3 Inginer 20 1
+Florea Alina Galaxiei 4 Casiera 15 4
+Bungardean Mihai Teilor 7 Mecanic 18 2
+Ionescu Andreea Plopilor 12 Casiera 16 7
+
+Bungardean Mihai Teilor 7 Mecanic 18 2
+Florea Alina Galaxiei 4 Casiera 15 4
+Ionescu Andreea Plopilor 12 Casiera 16 7
+Popescu Ion Fericirii 3 Inginer 20 1
+
+2
+69
+Plopilor 12 Casiera 16 7
+Bungardean Mihai Teilor 7 Mecanic 18 2
+Florea Alina Galaxiei 4 Casiera 15 4
+Ionescu Andreea Plopilor 12 Casiera 18 7
+Popescu Ion Fericirii 3 Inginer 20 1
+
+Florea Alina Galaxiei 4 Casiera 15 4
+Ionescu Andreea Plopilor 12 Casiera 18 7
+Popescu Ion Fericirii 3 Inginer 20 1
+Casiera
