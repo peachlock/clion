@@ -14,8 +14,7 @@ int main() {
     int n = strlen(s);
 
     // a)
-    for (int i=0; i < n; i++)
-        if (i % 2 == 0)
+    for (int i=0; i < n; i = i+2)
             cout << s[i];
 
     cout << endl;

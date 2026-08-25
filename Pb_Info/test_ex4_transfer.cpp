@@ -22,4 +22,13 @@ int main() {
     cout << a.marca << endl;
     cout << a.anFabricatie << endl;
 
+    // d)
+    cout << 2026 - a.anFabricatie << endl;
+
+    // e)
+    if (strcmp(a.marca, "BMW") == 0)
+        cout << "DA";
+    else
+        cout << "NU";
+
 }
