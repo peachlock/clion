@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// subrpogram iterativ care returneaza suma cifrelor mai mari decat 6
+//ex 1.  subrpogram iterativ care returneaza suma cifrelor mai mari decat 6
 /* int suma(int n) {
     int s = 0 ;
     while (n>0) {
@@ -12,6 +12,8 @@ using namespace std;
     return s;
 } */
 
+// ex 2. Scrieti un subprogram care sa returneze suma elem divizibile cu 5 dintrun vector cu n elemente nr intregi
+// a) iterativ
 int suma_it(int n, int v[]) {
     int s = 0;
     for (int i=1; i<=n; i++)
@@ -20,6 +22,7 @@ int suma_it(int n, int v[]) {
     return s;
 }
 
+// b) recursiv
 int suma_rec(int n, int v[]) {
     if (n == 0)
         return 0;
@@ -29,6 +32,7 @@ int suma_rec(int n, int v[]) {
         else return suma_rec(n-1, v);
 }
 
+// c) DEI
 int suma_dei(int st, int dr, int v[]) {
     if (st == dr) {
         if (v[st] % 5 == 0)
